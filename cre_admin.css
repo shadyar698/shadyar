@@ -1,0 +1,70 @@
+body{
+    background:linear-gradient(90deg,#f2e5e5,#ce7777);
+ }
+
+
+ .cre form{
+    width: 350px;
+    height: 450px;
+    padding: 10px;
+    margin: 120px auto;
+    background-color: #3b3a55;
+ }
+
+ .cre h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #f2e5e5;
+    text-align: center;
+ }
+
+ .cre input{
+    width: 300px;
+    padding: 10px;
+    font-size: 20px;
+    color: #3b3a55;
+    background-color: #f2e5e5;
+    margin: 10px;
+    border: none;
+
+ }
+ .cre button{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: #3b3a55;
+    background-color: #ce7777;
+    padding: 7px;
+    width: 320px;
+text-align: center;
+margin: 15px 10px;
+border: none;
+ }
+ .cre button:hover{
+    background-color: #f2e5e5;
+ }
+
+ .cre a{
+    color: #f2e5e5;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 0px 125px;
+  
+ }
+ .cre a:hover{
+    color: #ce7777;
+    text-decoration: underline;
+ }
+ .masg{
+    text-align: center;
+    color: aliceblue;
+    background-color: red;
+    width: 250px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px 90px;
+    margin-top: -40px;
+    padding: 5px;
+ }

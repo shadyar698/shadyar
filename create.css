@@ -1,0 +1,85 @@
+body{
+    background:linear-gradient(45deg,#f2e5e5,#ce7777);
+}
+.cre{
+    width: 350px;
+    height: 620px;
+    margin: 50px auto;
+    background-color:#3b3a55;
+    box-shadow: 2px 3px 5px #868585;
+}
+.cre h2{
+    text-align: center;
+    font-size: 28px;
+    color: #f2e5e5;
+    font-family:Arial, Helvetica, sans-serif;
+position: relative;
+bottom: 35px; 
+}
+::placeholder{
+    font-size: 20px;
+    color: #3b3a55;
+}
+.cre img{
+  margin:20px 140px;
+
+}
+
+.cre input{
+    margin: 11px;
+    padding: 10px;
+    width: 250px;
+   border: none;
+   background-color: #e8c4c4;
+   color: #3b3b3b;
+   font-size: 17px;
+   position: relative;
+   left: 25px;
+   bottom: 40px;
+  
+   
+}
+.cre button {
+    position: relative;
+    bottom: 20px;
+    width: 275px;
+    margin-left: 33px;
+    padding: 8px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#ce7777 ;
+border: none;
+cursor: pointer;
+color:#3b3a55;
+ font-weight: bold;
+
+}
+
+.cre button:hover{
+    background-color:#f2e5e5 ;
+}
+.cre a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #f2e5e5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-left: 130px;
+position: relative;
+bottom: 0px;
+
+}
+.cre a:hover{
+    text-decoration:underline;
+    color: #ce7777;
+}
+
+.masg{
+    background-color:#d91539; 
+    color:#f2f2f2;
+    font-size:20px;
+    padding: 5px;
+    position: relative;
+    bottom: 45px;
+    left:70px;
+    width: 300px;
+ }
